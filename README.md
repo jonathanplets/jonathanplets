@@ -1,7 +1,7 @@
 ## Olá! eu sou o Jonathan Santos, estudante de Tecnologia
 
 - 🔭 Buscando trabalhar com front-end 
-- 🌱 Estudante de javaScript
+- 🌱 Estudante de javaScript e React
 - 🙂 Meu Portfólio: https://jonathanplets.github.io/portfolio-do-jonathan/
 - 📫 contate-me no email: jonathanplets@gmail.com
 - 😄 Pronouns: ele/dele
