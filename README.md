@@ -2,6 +2,7 @@
 
 - 🔭 Buscando trabalhar com front-end 
 - 🌱 Estudante de javaScript
+- 🙂 Meu Portfólio: https://jonathanplets.github.io/portfolio-do-jonathan/
 - 📫 contate-me no email: jonathanplets@gmail.com
 - 😄 Pronouns: ele/dele
 
