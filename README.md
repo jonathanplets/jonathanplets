@@ -1,4 +1,4 @@
-## Olá! eu sou o Jonathan Santos, estudante de Tecnologia
+## Olá! eu sou o Jonathan Santos, Desenvolvedor Web
 
 - 🔭 Buscando trabalhar com front-end 
 - 🌱 Estudante de javaScript e React
